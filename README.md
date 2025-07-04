@@ -6,10 +6,10 @@ A few areas where I specialize:
 
 * Database design and optimization, specifically on PostgreSQL, but also other databases like Cassandra, Redis, and SQLite.
 * Data processing and pipeline building, specifically in Python. (Though I started with Perl for many, many years.) I've also worked in Java, JavaScript, and PHP.
-* Building out cloud environments with Terraform including networking, specifically on AWS.
+* Building out cloud environments with Terraform including networking, specifically on AWS and Google Cloud.
 * Kubernetes administration and application development and deployment.
 * Infrastructure coordination and automation, particularly with Terraform, Ansible, and Python.
-* Mentoring other developers of all levels of experience in new to them technologies with an aim to level up my team so that we can all succeed together.
+* Mentoring other developers of all levels of experience in new-to-them technologies with an aim to level up my team so that we can all succeed together.
 
 ---
 
@@ -53,23 +53,6 @@ paullockaby: ![paullockaby stars](https://img.shields.io/github/stars/paullockab
 
 ---
 
-🌱&nbsp; Currently I am currently learning:
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
-
----
-
 🧑🏻‍💻&nbsp; Currently I am currently working on:
 
-* An ActivityPub instance for a single-user.
-* A Heroku/Dokku-like build and deployment system for easy application deployment into Kubernetes.
-* A miniature monitoring system for when you just want to know if your stuff is working and don't want to deploy Prometheus or Datadog.
-* Yet another time tracking application that aligns with my brain.
-* An aggregator for Seattle traffic events so I can get around the city more easily.
-* A website for friends to share things that they are willing to let others borrow.
-* A proxy application for connecting to [Enphase Envoy solar panel system](https://github.com/paullockaby/enphase-proxy) and then graphing the data.
-
-None of these may come to fruition, but they're what I'm working on nonetheless. When things start to become available then I will add links above.
+* Probably nothing because I spend my free time with my family. Sorry.
