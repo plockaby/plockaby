@@ -5,7 +5,7 @@ I'm a software and database developer and infrastructure engineer. I spent the f
 A few areas where I specialize:
 
 * Database design and optimization, specifically on PostgreSQL, but also other databases like Cassandra, Redis, and SQLite.
-* Data processing and pipeline building, specifically in Python. (Though I started with Perl for many, many years.) I've also worked in Java, JavaScript, and PHP.
+* Data processing and pipeline building, specifically in Python. (Though I started with Perl for many, many years.) I have been writing Golang recently, too. I've also worked in Java, JavaScript, and PHP in the past.
 * Building out cloud environments with Terraform including networking, specifically on AWS and Google Cloud.
 * Kubernetes administration and application development and deployment.
 * Infrastructure coordination and automation, particularly with Terraform, Ansible, and Python.
@@ -50,6 +50,7 @@ paullockaby: ![paullockaby stars](https://img.shields.io/github/stars/paullockab
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/perl/perl-original.svg" title="Perl" alt="Perl" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
 ---
 
